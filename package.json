@@ -1,0 +1,22 @@
+{
+  "name": "design_patter_typescript_v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/singh4758/Design_Patter_Typescript_V1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/singh4758/Design_Patter_Typescript_V1/issues"
+  },
+  "homepage": "https://github.com/singh4758/Design_Patter_Typescript_V1#readme",
+  "dependencies": {
+    "@types/node": "^20.2.3"
+  }
+}
