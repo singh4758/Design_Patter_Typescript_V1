@@ -18,6 +18,8 @@
   "homepage": "https://github.com/singh4758/Design_Patter_Typescript_V1#readme",
   "dependencies": {
     "@types/node": "^20.2.3",
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13",
     "typescript": "^5.1.3"
   }
 }
